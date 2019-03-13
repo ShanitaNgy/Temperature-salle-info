@@ -10,5 +10,10 @@
 La séance a débuté par la présentation des différents projets de chaque groupe. Nous avons donc présenté notre projet en quelques minutes, puis nous avons discuté des diverses modélisations possibles. Nous avons constaté que le sujet que nous allons abordé semble diverger des idées des autres groupes, plus axés sur les interactions sociales . Même si notre projet paraît ambitieux, nous sommes déterminés à aboutir notre modélisation. Nous avons continué nos recherches par la suite et à programmer pendant le temps qui nous restait.
 
 ### Semaine du 4 mars 2019
-La première partie de la séance a été consacrée à la poursuite de notre projet:
+La première partie de la séance a été consacrée à la poursuite de notre projet: nous avons cherché en priorité une relation entre la convection et la conduction. En effet, afin d'obtenir la température ambiante de la salle après un temps t, celle-ci doit comprendre deux transferts thermiques venant des ordinateurs, de convection et de conduction. Nous nous sommes arrêtés sur une formule étant basée sur la moyenne de deux masses volumiques, d'une part celle de la salle (qui ne prend pas en compte le volume de l'ordinateur), et d'autre part celle en lien avec le volume chaud d'air brassé sortant de l'ordinateur. 
+La deuxième partie du cours a été réservée pour une intervention visant à nous aider dans nos recherches documentaires, ce qui nous a été assez utile (archives bibliothèques, sites scientifiques, recherches en anglais,...) .
+
+### Semaine du 11 mars 2019
+Pendant ces quatre heures, une partie du groupe s'est focalisée sur les formules liées aux échanges thermiques internes et au brassement d'air du PC, tandis que l'autre partie s'est concentrée sur le blog, la modélisation en 2D, ainsi que la transmission thermique en chaque point de l'air de la salle.Des interrogations ont été soulevées quant à la modélisation complexe de nos modèles, créant des débats au sein du groupe. Cependant, nous avons trouvé un accord à ce sujet.
+
 
