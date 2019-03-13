@@ -5,7 +5,6 @@
   Avec cette mise en commun, des schémas étaient nécessaires pour faciliter la compréhension et éviter les malentendus. Nous avons donc utilisé le tableau de notre box pour les schémas de nos modèles et les formules à utiliser. Par ailleurs, nous avons dû appronfondir nos recherches à l'aide d'un ouvrage intitulé 'Introduction aux transferts thermiques' car nos connaissances en thermodynamique étaient trop limitées pour ce que nous voulons envisager. D'autre part, nous avons créer notre [Diaporama](https://github.com/are2019-mipia1a2/Temperature-salle-info/blob/master/Diapo%20pr%C3%A9sentation.odp) pour notre passage oral la semaine suivante.
 
 ```Code
-Syntax highlighted code block
 def il(n) :
 """ int -> int """
 return 2n
